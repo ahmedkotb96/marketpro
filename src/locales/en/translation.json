@@ -1,0 +1,244 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "footer": {
+    "company": {
+      "name": "MarketPro",
+      "description": "Transforming ideas into digital success stories. Your partner in modern marketing solutions."
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "about": "About Us",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "services": {
+      "title": "Services",
+      "digitalMarketing": "Digital Marketing",
+      "contentStrategy": "Content Strategy",
+      "seoOptimization": "SEO Optimization",
+      "socialMedia": "Social Media"
+    },
+    "contactUs": {
+      "title": "Contact Us",
+      "address": "Sadat city, Menoufia, Egypt",
+      "phone": "+201001924076",
+      "email": "ahmedabdelhakiem96@gmail.com"
+    },
+    "description": "MarketPro is a leading digital marketing agency dedicated to helping businesses grow their online presence and achieve their goals.",
+    "copyright": "© {{year}} MarketPro. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "title": "Transform Your Digital Presence",
+      "subtitle": "We help businesses grow through innovative marketing strategies and creative solutions.",
+      "cta": "Get Started"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "We offer comprehensive marketing solutions tailored to your business needs.",
+      "items": {
+        "digitalMarketing": {
+          "title": "Digital Marketing",
+          "description": "Strategic online marketing campaigns that drive results and ROI."
+        },
+        "contentStrategy": {
+          "title": "Content Strategy",
+          "description": "Compelling content that tells your story and engages your audience."
+        },
+        "seoOptimization": {
+          "title": "SEO Optimization",
+          "description": "Boost your visibility and rank higher in search results."
+        },
+        "socialMedia": {
+          "title": "Social Media",
+          "description": "Build and engage your community across all platforms."
+        }
+      }
+    },
+    "stats": {
+      "clients": "Clients Served",
+      "retention": "Client Retention",
+      "projects": "Projects Completed",
+      "support": "Support"
+    },
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "subtitle": "Don't just take our word for it - hear from some of our satisfied clients.",
+      "john": {
+        "name": "John Smith",
+        "role": "CEO, Tech Solutions",
+        "content": "MarketPro transformed our online presence. Their strategic approach and creativity delivered exceptional results."
+      },
+      "sarah": {
+        "name": "Sarah Johnson",
+        "role": "Marketing Director, Innovate Inc",
+        "content": "Working with MarketPro has been a game-changer. They understand our vision and consistently exceed expectations."
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Business?",
+      "subtitle": "Let's work together to create a powerful digital presence that drives results.",
+      "button": "Contact Us Today"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About MarketPro",
+      "subtitle": "We're a team of passionate digital marketers, creatives, and strategists dedicated to transforming businesses through innovative marketing solutions."
+    },
+    "story": {
+      "title": "Our Story",
+      "paragraph1": "Founded in 2015, MarketPro began with a vision to bridge the gap between traditional marketing and the digital revolution. We recognized that businesses needed a partner who could navigate the rapidly evolving digital landscape while delivering real, measurable results.",
+      "paragraph2": "Today, we're proud to have helped hundreds of businesses achieve their marketing goals. Our team has grown to include experts from diverse backgrounds, all united by our passion for digital excellence and client success."
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "These core values guide everything we do and help us deliver exceptional results for our clients.",
+      "items": {
+        "innovation": {
+          "title": "Innovation",
+          "description": "We stay ahead of digital trends to deliver cutting-edge solutions."
+        },
+        "resultsDriven": {
+          "title": "Results-Driven",
+          "description": "Our strategies are focused on delivering measurable business outcomes."
+        },
+        "collaboration": {
+          "title": "Collaboration",
+          "description": "We work closely with our clients to ensure alignment and success."
+        },
+        "integrity": {
+          "title": "Integrity",
+          "description": "We maintain the highest standards of professionalism and transparency."
+        }
+      }
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "subtitle": "Our diverse team of experts brings together years of experience in digital marketing, creative design, and technology.",
+      "sarah": {
+        "name": "Sarah Anderson",
+        "role": "CEO & Founder",
+        "bio": "15+ years of digital marketing expertise. Previously led marketing at Fortune 500 companies."
+      },
+      "michael": {
+        "name": "Michael Chen",
+        "role": "Creative Director",
+        "bio": "Award-winning creative director with a passion for innovative design solutions."
+      },
+      "emily": {
+        "name": "Emily Rodriguez",
+        "role": "Head of Strategy",
+        "bio": "Data-driven strategist specializing in growth marketing and customer acquisition."
+      },
+      "david": {
+        "name": "David Kim",
+        "role": "Technical Lead",
+        "bio": "Expert in marketing technology and automation. 10+ years of industry experience."
+      }
+    }
+  },
+  "projects": {
+    "header": {
+      "title": "Our Projects",
+      "subtitle": "Explore our portfolio of successful digital marketing campaigns and transformations."
+    },
+    "items": {
+      "ecommerce": {
+        "title": "E-commerce Transformation",
+        "client": "Fashion Boutique",
+        "category": "Digital Marketing",
+        "description": "Complete digital transformation of a traditional retail business, resulting in 200% increase in online sales."
+      },
+      "branding": {
+        "title": "Brand Revival",
+        "client": "Organic Foods Co.",
+        "category": "Branding",
+        "description": "Refreshed brand identity and marketing strategy that led to 150% increase in market awareness."
+      },
+      "social": {
+        "title": "Social Media Growth",
+        "client": "Tech Startup",
+        "category": "Social Media",
+        "description": "Implemented social media strategy that grew following from 1K to 100K in 6 months."
+      },
+      "seo": {
+        "title": "SEO Optimization",
+        "client": "Legal Services",
+        "category": "SEO",
+        "description": "Achieved first page rankings for 50+ key industry terms through strategic SEO optimization."
+      },
+      "content": {
+        "title": "Content Strategy",
+        "client": "Educational Platform",
+        "category": "Content Marketing",
+        "description": "Developed comprehensive content strategy that increased organic traffic by 300%."
+      },
+      "automation": {
+        "title": "Marketing Automation",
+        "client": "SaaS Company",
+        "category": "Automation",
+        "description": "Implemented marketing automation that improved lead conversion by 75%."
+      }
+    },
+    "viewCaseStudy": "View Case Study →",
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Let's work together to create a digital success story for your business.",
+      "button": "Get in Touch"
+    }
+  },
+  "contact": {
+    "header": {
+      "title": "Contact Us",
+      "subtitle": "Ready to transform your digital presence? Get in touch with our team of experts and let's discuss how we can help your business grow."
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Full Name *",
+      "email": "Email Address *",
+      "company": "Company Name",
+      "phone": "Phone Number",
+      "service": "Service Interested In *",
+      "services": {
+        "digitalMarketing": "Digital Marketing",
+        "contentStrategy": "Content Strategy",
+        "seo": "SEO Optimization",
+        "socialMedia": "Social Media Management",
+        "other": "Other"
+      },
+      "message": "Your Message *",
+      "submit": "Send Message",
+      "submitting": "Submitting...",
+      "success": "Message sent! We'll get back to you soon.",
+      "error": "Please fill out all required fields."
+    },
+    "info": {
+      "title": "Contact Information",
+      "location": {
+        "title": "Office Location",
+        "address": "Sadat city, Menoufia, Egypt"
+      },
+      "contact": {
+        "title": "Contact Information",
+        "email": "Email",
+        "phone": "Phone"
+      },
+      "hours": {
+        "title": "Our Hours",
+        "weekdays": "Sunday - Thursday: 9:00 AM - 5:00 PM",
+        "weekend": "Friday & Saturday: Closed"
+      }
+    },
+    "social": {
+      "title": "Connect With Us"
+    }
+  }
+} 
