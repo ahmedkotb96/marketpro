@@ -8,7 +8,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <Router future={{ v7_startTransition: true }}>
+        <Router basename="/MarketPro" future={{ v7_startTransition: true }}>
       <div className="bg-white text-gray-800 dark:bg-gray-900 dark:text-gray-300">
         <Navbar />
         <main>
